@@ -42,8 +42,8 @@ Visualization of the dataset is performed using seaborn and matplotlib libraries
 ### Usage
 1. Clone the repository to your local machine.
 2. Install the required dependencies mentioned in the `requirements.txt` file.
-3. Run the `autoinsurance_logistic_regression.py` file to train and evaluate the logistic regression model.
-4. Execute the `visualization_autoinsurance.py` file to generate visualizations of the dataset.
+3. Run the `Multiclass Logistic Regression Employment Type.ipynb` file to train and evaluate the logistic regression model.
+4. Execute the `Visualization Practice.ipynb` file to generate visualizations of the dataset.
 
 ### Note
 - Ensure that the dataset file `AutoInsurance.csv` is placed in the appropriate directory specified in the Python files.
